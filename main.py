@@ -249,7 +249,7 @@ def login():
 
 def main():
     user = login()
-    print('\n- - - F A Z E N D A B A N A N I R A - - -')
+    print('\n- - - F A Z E N D A - - -')
     print(f'\nSeja bem-vindo, {user}!')
 
     while True:
